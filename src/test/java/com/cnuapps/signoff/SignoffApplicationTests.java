@@ -1,0 +1,13 @@
+package com.cnuapps.signoff;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SignoffApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
